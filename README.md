@@ -57,10 +57,6 @@ The implementation has been tested on the Berlin52 dataset from TSPLIB, achievin
 ![Optimal Route](results/sample_route.png)
 *Example of an optimized route for Berlin52*
 
-##### Convergence History
-![Convergence History](results/sample_convergence.png)
-*Example of algorithm convergence over iterations*
-
 The algorithm uses several optimization techniques:
 - Nearest neighbor initialization for good starting solutions
 - 2-opt local search for route improvement
