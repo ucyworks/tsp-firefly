@@ -1,0 +1,14 @@
+Problem: berlin52
+Dimension: 52
+Best Distance: 25352.8613
+Execution Time: 0.61 seconds
+
+Algorithm Parameters:
+  num_fireflies: 40
+  alpha: 0.5
+  beta_0: 1.0
+  gamma: 0.01
+  max_iterations: 150
+
+Best Route:
+41 -> 1 -> 8 -> 7 -> 33 -> 50 -> 19 -> 30 -> 36 -> 23 -> 32 -> 10 -> 39 -> 31 -> 0 -> 5 -> 42 -> 4 -> 46 -> 22 -> 14 -> 43 -> 48 -> 18 -> 3 -> 40 -> 29 -> 44 -> 24 -> 47 -> 35 -> 12 -> 6 -> 16 -> 20 -> 13 -> 2 -> 17 -> 45 -> 15 -> 28 -> 37 -> 34 -> 25 -> 51 -> 26 -> 27 -> 9 -> 21 -> 38 -> 11 -> 49 -> 41
